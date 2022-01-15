@@ -33,5 +33,3 @@
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/Raaj66"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/Raaj66" /></a></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raaj66&show_icons=true&locale=en" alt="raaj66" /></p>
-
-<a href="https://app.daily.dev/raaj6636"><img src="https://api.daily.dev/devcards/3b6390379ef8427797db4ef223021807.png?r=h6j" width="400" alt="Raaj's Dev Card"/></a>
